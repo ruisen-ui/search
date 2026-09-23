@@ -12,7 +12,7 @@
     'use strict';
     const ENGINES = [
         { name: "百度", url: "https://www.baidu.com/s?wd={q}" },
-        { name: "谷歌", url: "https://www.google.com/search?q={q}" },
+        { name: "谷歌", url: "https://www.google.com/search?q={q}" }
     ];
     const HOST_ID = '__ms_shadow_host__';
 
